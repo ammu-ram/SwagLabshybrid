@@ -5,4 +5,4 @@ def test_dummy():
 
 
 def test_dummy2():
-  print("Commit request")
+  print("Commited request")
